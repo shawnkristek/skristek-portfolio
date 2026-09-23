@@ -32,3 +32,21 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Tech selected for this project:
+- framer motion js animations
+- next.js web dev framework for react apps
+- react.js front-end js framework
+- radix ui component library
+- github repository
+- git version control
+- tailwind css utility library
+- vercel for deploying/hosting 
+### later for blog
+- nextAuth.js authentication
+- prisma.io ORM (object-relational mapping)
+- sanity.io CMS (content management system)
+- planetscale database or AWS?
+### maybes
+- husky for git hooks
+- 
